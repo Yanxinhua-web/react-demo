@@ -24,3 +24,7 @@ jsx语法：javascript+xml语法(html)
 ### 元素渲染
 
 ### 组件
+组件的后缀可以是js，也可以是jsx
+
+### props属性
+组件的复用性很重要
